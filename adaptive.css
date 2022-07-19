@@ -1288,6 +1288,455 @@ margin-left: 190px;
 }
 
 @media screen and (max-width: 420px) {
+        .index_hat {
+            width: 420px;
+        }
+
+        .logo_nav img {
+            margin-left: 5px;
+        }
+
+        .logo_nav {
+            width: 100px;
+        }
+
+        .nav_list {
+            padding-left: 0px;
+            width: 180px;
+        }
+
+        .nav_item {
+            width: 60px;
+        }
+
+        .nav_list .nav_item .nav_a {
+            font-size: 12px;
+        }
+
+        .main {
+            height: 400px;
+            width: 500px;
+        }
+
+        .main_info {
+            padding-left: 30px;
+            padding-top: 10px;
+            font-size: 18px;
+            width: 300px;
+        }
+
+        .main_logo {
+            display: none;
+            margin-left: 45px;
+            width: 200px;
+            height: 150px;
+        }
+
+        .main_list {
+            padding-left: 20px;
+            padding-top: 40px;
+            height: 300px;
+        }
+
+        .main_item {
+            width: 300px;
+            font-size: 12px;
+            padding: 10px 20px 10px 10px;
+        }
+
+        .main_text {
+            display: inline-block;
+            padding-top: 7px;
+            padding-left: 2px;
+        }
+
+        .help {
+            width: 420px;
+            height: 750px;
+        }
+
+        .help_h2 {
+            margin-left: 30px;
+            font-size: 12px;
+        }
+
+        .help_list {
+            margin-left: 30px;
+            width: 360px;
+            height: 600px;
+        }
+
+        .help_item {
+            width: 250px;
+            padding-left: 10px;
+        }
+
+        .help_p_1::before {
+            left: -30px;
+            top: 7px;
+        }
+
+        .help_p_2::before {
+            left: -30px;
+            top: 7px;
+        }
+
+        .help_p_3::before {
+            left: -30px;
+            top: 7px;
+        }
+
+        .help_p_4::before {
+            left: -30px;
+            top: 7px;
+        }
+
+        .help_p_5::before {
+            left: -30px;
+            top: 7px;
+        }
+
+        .help_p_6::before {
+            left: -30px;
+            top: 7px;
+        }
+
+        .help_h3 {
+            font-size: 10px;
+        }
+
+        .pluses {
+            height: 1700px;
+            width: 420px;
+        }
+
+        .pluses_question {
+            padding-left: 29px;
+        }
+
+        .pluses_list {
+            padding-left: 20px;
+            width: 420px;
+        }
+
+        .pluses_item {
+            width: 360px;
+        }
+
+        .pluses_img {
+            margin-left: 160px;
+        }
+
+        .pluses_h4_1 {
+            padding-left: 93px;
+            font-size: 20px;
+        }
+
+        .pluses_h4_2 {
+            padding-left: 123px;
+            font-size: 20px;
+        }
+
+        .pluses_h4_3 {
+            padding-left: 70px;
+            font-size: 20px;
+        }
+
+        .pluses_h4_4 {
+            padding-left: 113px;
+            font-size: 20px;
+        }
+
+        .pluses_h4_5 {
+            padding-left: 103px;
+            font-size: 20px;
+        }
+
+        .pluses_h4_6 {
+            padding-left: 60px;
+            font-size: 18px;
+        }
+
+        .pluses_h4_6::after {
+            margin: 15px 0px 20px 109px;
+        }
+
+        .pluses_p_1 {
+            width: 260px;
+        }
+
+        .pluses_p_2 {
+            width: 260px;
+        }
+
+        .pluses_p_3 {
+            width: 260px;
+        }
+
+        .pluses_p_4 {
+            width: 260px;
+        }
+
+        .pluses_p_5 {
+            width: 260px;
+        }
+
+        .pluses_p_6 {
+            width: 260px;
+        }
+
+        .reviews {
+            height: 1500px;
+        }
+
+        .section-g {
+            /* height: 600px; */
+            height: 1650px;
+        }
+
+        .reviews_h3 {
+            padding-top: 30px;
+            font-size: 30px;
+            padding-bottom: 0px;
+            padding-left: 95px;
+        }
+
+        .middle {
+            /* left: 785px; */
+            /* left: 640px; */
+            /* left: 700px; */
+            /* left: 320px; */
+            left: 290px;
+        }
+
+        .slide {
+            /* max-width: 100%; */
+            width: 500px;
+            /* height: 1500px; */
+        }
+
+        .slide ul {
+            width: 500px;
+        }
+
+        .slides {
+            /* max-width: 100%; */
+            width: 500px;
+        }
+
+        .reviews_list_1 {
+            background: none;
+            width: 800px;
+        }
+
+        .reviews_list_2 {
+            background: none;
+        }
+
+        .reviews_list_3 {
+            background: none;
+        }
+
+        .reviews_list_4 {
+            background: none;
+        }
+
+        .navigation {
+            left: 172px;
+        }
+
+        #r1:checked~.s1 {
+            margin-left: 0;
+        }
+
+        #r2:checked~.s1 {
+            margin-left: -500px;
+        }
+
+        #r3:checked~.s1 {
+            margin-left: -1000px;
+        }
+
+        #r4:checked~.s1 {
+            margin-left: -1500px;
+        }
+
+        .bar {
+            background-color: rgb(99, 99, 99);
+        }
+
+        .reviews_item {
+            margin-left: 20px;
+            box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.4);
+        }
+
+        .advice {
+            padding-left: 125px;
+            width: 300px;
+        }
+
+        .advice_p {
+            text-align: center;
+            font-size: 14px;
+        }
+
+        .last_block {
+            padding-left: 0px;
+            width: 500px;
+        }
+
+        .tabl {
+            margin-left: 20px;
+            display: none;
+        }
+
+        .phone_img {
+            margin-left: 105px;
+        }
+
+        .phone_number {
+            padding-top: 15px;
+            font-size: 15px;
+            width: 150px;
+        }
+
+        .end {
+            width: 500px;
+        }
+
+        .end_text {
+            padding-left: 120px;
+        }
+
+        .service {
+            height: 1450px;
+            width: 500px;
+        }
+
+        .service_question {
+            padding-left: 95px;
+            font-size: 35px;
+        }
+
+        .service_list {
+            padding-left: 20px;
+            width: 375px;
+        }
+
+        .service_item {
+            width: 360px;
+            height: 300px;
+        }
+
+        .service_img {
+            padding-top: 30px;
+            margin-left: 158px;
+        }
+
+        .service_h4_1 {
+            font-size: 14px;
+        }
+
+        .service_h4_2 {
+            font-size: 14px;
+        }
+
+        .service_h4_3 {
+            font-size: 14px;
+        }
+
+        .service_h4_4 {
+            font-size: 14px;
+        }
+
+        .service_h4_1::after {
+            margin: 15px 200px 20px 165px;
+        }
+
+        .service_h4_2::after {
+            margin: 15px 200px 20px 165px;
+        }
+
+        .service_h4_3::after {
+            margin: 15px 200px 20px 165px;
+        }
+
+        .service_h4_4::after {
+            margin: 15px 200px 20px 165px;
+        }
+
+        .service_p_1 {
+            width: 260px;
+        }
+
+        .service_p_2 {
+            width: 260px;
+        }
+
+        .service_p_3 {
+            width: 260px;
+        }
+
+        .service_p_4 {
+            width: 260px;
+        }
+
+        .contacts_main {
+            height: 800px;
+        }
+
+        .con_question {
+            padding-left: 100px;
+            font-size: 30px;
+        }
+
+        .con_block {
+            display: block;
+            width: 402px;
+        }
+
+        .con_contacts {
+            width: 340px;
+            display: inline-block;
+            padding-left: 0px;
+            height: 110px;
+            text-align: center;
+        }
+
+        .con_list {
+            width: 200px;
+            display: inline-block;
+        }
+
+        .con_item {
+            width: 180px;
+            display: inline-block;
+        }
+
+        .con_img {
+            margin-left: 70px;
+        }
+
+        .con_text {
+            width: 250px;
+            font-size: 11px;
+        }
+
+        .con_map {
+            display: block;
+            margin-left: 20px;
+            padding-top: 30px;
+            width: 440px;
+            margin-bottom: 50px;
+        }
+
+        .map {
+            width: 380px;
+            height: 270px;
+        }
+    }
+
+@media screen and (max-width: 375px) {
 
         .index_hat {
             width: 375px;
