@@ -706,6 +706,361 @@ margin-left: 180px;
     }
 } 
 
+@media screen and (max-width: 900px) {
+
+    .main {
+        height: 450px;
+        width: 840px;
+
+    }
+
+    .main_info {
+        padding-left: 68px;
+        padding-top: 63px;
+        font-size: 25px;
+        width: 370px;
+    }
+
+    .main_logo {
+        margin-left: 116px;
+        width: 350px;
+        height: 250px;
+    }
+
+    .main_list {
+        padding-left: 43px;
+    }
+
+    .main_item {
+        font-size: 14px;
+        padding: 70px 20px 10px 25px;
+    }
+
+    .help {
+        width: 900px;
+        height: 400px;
+    }
+
+    .help_h2 {
+        margin-left: 70px;
+    }
+
+    .help_list {
+        margin-left: 70px;
+        width: 700px;
+    }
+
+    .help_item {
+        width: 220px;
+        padding-left: 10px;
+    }
+
+    .help_p_1::before {
+        left: -30px;
+        top: 7px;
+    }
+
+    .help_p_2::before {
+        left: -30px;
+        top: 7px;
+    }
+
+    .help_p_3::before {
+        left: -30px;
+        top: 7px;
+    }
+
+    .help_p_4::before {
+        left: -30px;
+        top: 7px;
+    }
+
+    .help_p_5::before {
+        left: -30px;
+        top: 7px;
+    }
+
+    .help_p_6::before {
+        left: -30px;
+        top: 7px;
+    }
+
+    .help_h3 {
+        font-size: 9px;
+    }
+
+    .pluses {
+        height: 900px;
+    }
+
+    .pluses_question {
+        padding-left: 69px;
+    }
+
+    .pluses_list {
+        padding-left: 59px;
+        width: 800px;
+    }
+
+    .pluses_item {
+        width: 340px;
+    }
+
+    .pluses_img {
+        margin-left: 150px;
+    }
+
+    .pluses_h4_1 {
+        padding-left: 85px;
+    }
+
+    .pluses_h4_2 {
+        padding-left: 113px;
+    }
+
+    .pluses_h4_3 {
+        padding-left: 59px;
+    }
+
+    .pluses_h4_4 {
+        padding-left: 100px;
+    }
+
+    .pluses_h4_5 {
+        padding-left: 92px;
+    }
+
+    .pluses_h4_6 {
+        padding-left: 20px;
+    }
+
+    .reviews {
+        height: 1500px;
+    }
+
+    .section-g {
+        /* height: 600px; */
+        height: 1650px;
+    }
+
+    .reviews_h3 {
+        padding-top: 30px;
+        padding-bottom: 0px;
+        padding-left: 273px;
+    }
+
+    .middle {
+        /* left: 785px; */
+        /* left: 640px; */
+        /* left: 700px; */
+        left: 503px;
+    }
+
+    .slide {
+        /* max-width: 100%; */
+        width: 500px;
+        /* height: 1500px; */
+    }
+
+    .slide ul {
+        width: 500px;
+    }
+
+    .slides {
+        /* max-width: 100%; */
+        width: 500px;
+    }
+
+    .reviews_list_1 {
+        background: none;
+        width: 800px;
+    }
+
+    .reviews_list_2 {
+        background: none;
+    }
+
+    .reviews_list_3 {
+        background: none;
+    }
+
+    .reviews_list_4 {
+        background: none;
+    }
+
+
+    .navigation {
+        left: 172px;
+
+    }
+
+    #r1:checked~.s1 {
+        margin-left: 0;
+    }
+
+    #r2:checked~.s1 {
+        margin-left: -500px;
+    }
+
+    #r3:checked~.s1 {
+        margin-left: -1000px;
+    }
+
+    #r4:checked~.s1 {
+        margin-left: -1500px;
+    }
+
+    .bar {
+        background-color: rgb(99, 99, 99);
+    }
+
+    .reviews_item {
+        margin-left: 20px;
+        box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.4);
+    }
+
+    .advice {
+        padding-left: 190px;
+        width: 650px;
+    }
+
+    .advice_p {
+        text-align: center;
+        font-size: 14px;
+    }
+
+    .last_block {
+        padding-left: 0px;
+        width: 900px;
+    }
+
+.tabl {
+    margin-left: 153px;
+}
+
+    .phone_number {
+        padding-top: 10px;
+        font-size: 20px;
+    }
+
+    .end {
+        width: 900px;
+    }
+
+    .end_text {
+        padding-left: 330px;
+    }
+
+    .service {
+        height: 900px;
+    }
+
+    .service_question {
+        padding-left: 260px;
+    }
+
+    .service_list {
+        padding-left: 60px;
+        width: 800px;
+    }
+
+    .service_item {
+        width: 338px;
+        height: 350px;
+    }
+
+    .service_img {
+        margin-left: 150px;
+    }
+
+    .service_h4_1 {
+        font-size: 14px;
+    }
+
+    .service_h4_2 {
+        font-size: 14px;
+    }
+
+    .service_h4_3 {
+        font-size: 14px;
+    }
+
+    .service_h4_4 {
+        font-size: 14px;
+    }
+
+    .service_h4_1::after {
+        margin: 15px 200px 20px 157px;
+    }
+
+    .service_h4_2::after {
+        margin: 15px 200px 20px 157px;
+    }
+
+    .service_h4_3::after {
+        margin: 15px 200px 20px 157px;
+    }
+
+    .service_h4_4::after {
+        margin: 15px 200px 20px 157px;
+    }
+
+.contacts_main {
+    height: 1000px;
+}
+
+    .con_question {
+        padding-left: 265px;
+    }
+
+    .con_block {
+        display: block;
+        width: 402px;
+    }
+
+    .con_contacts {
+        width: 700px;
+        display: inline-block;
+        padding-left: 290px;
+        margin-top: 20px;
+        height: 110px;
+        text-align: center;
+    }
+
+    .con_list {
+        width: 400px;
+        display: block;
+    }
+
+    .con_item {
+        width: 180px;
+        display: block;
+    }
+
+    .con_img {
+        margin-left: 70px;
+    }
+
+    .con_text {
+        width: 250px;
+        font-size: 11px;
+    }
+
+    .con_map {
+        display: block;
+        padding-left: 100px;
+        padding-top: 20px;
+        width: 800px;
+        margin-bottom: 50px;
+    }
+
+    .map {
+        width: 650px;
+        height: 400px;
+    }
+
+}
+
 @media screen and (max-width: 777px) {  
     
     .main { 
