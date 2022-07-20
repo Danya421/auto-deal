@@ -115,8 +115,7 @@ padding-left: 710px;
     }
 
     .main_item {
-        margin-left: 117px;
-        padding: 70px 0px 10px 40px;
+        padding: 70px 0px 10px 158px;
     }
 
     .help_h2 {
@@ -1051,7 +1050,7 @@ margin-left: 150px;
 
 }
 
-@media screen and (max-width: 740px) {
+@media screen and (max-width: 760px) {
 
 .index_hat {
         width: 722px;
@@ -1421,7 +1420,7 @@ margin-left: 150px;
 
 }
 
-@media screen and (max-width: 580px) {
+@media screen and (max-width: 590px) {
 
     .index_hat {
         width: 560px;
